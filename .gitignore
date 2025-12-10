@@ -29,3 +29,6 @@ coverage/
 
 # Claude Flow
 .claude-flow/
+
+# Runtime state
+.swarm/
